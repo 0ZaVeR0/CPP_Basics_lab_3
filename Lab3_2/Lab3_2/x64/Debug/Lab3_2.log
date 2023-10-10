@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\dpole\source\repos\Lab3_2\Lab3_2\source.cpp(11,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab3_2.vcxproj -> C:\Users\dpole\source\repos\Lab3_2\x64\Debug\Lab3_2.exe
